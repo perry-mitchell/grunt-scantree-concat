@@ -1,6 +1,8 @@
 # grunt-scantree-concat
 Concatenate JavaScript files from the output of scantree
 
+[![NPM](https://nodei.co/npm/grunt-scantree-concat.png)](https://nodei.co/npm/grunt-scantree-concat/)
+
 ## What
 
 Please see [scantree](https://www.npmjs.com/package/scantree) for how the process works. From a project set up in that manner, _grunt-scantree-concat_ concatenates the files listed in the output from scantree into a single file.
